@@ -1,0 +1,27 @@
+{
+    "name": "eight-dot-matrix",
+    "version": "1.0.0",
+    "description": "A library for converting numbers to 8-dot matrix Unicode characters",
+    "main": "eight-dot-matrix.js",
+    "type": "module",
+    "files": [
+        "eight-dot-matrix.js"
+    ],
+    "keywords": [
+        "dot-matrix",
+        "unicode",
+        "braille",
+        "dots",
+        "matrix"
+    ],
+    "author": "tyamaz",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tyamaz/eight-dot-matrix.git"
+    },
+    "bugs": {
+        "url": "https://github.com/tyamaz/eight-dot-matrix/issues"
+    },
+    "homepage": "https://github.com/tyamaz/eight-dot-matrix"
+} 
